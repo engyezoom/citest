@@ -1,2 +1,2 @@
 #!/bin/bash
-pm2 restart index.js
+pm2 restart /var/www/vhosts/test/citest/index.js
